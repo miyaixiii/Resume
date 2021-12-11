@@ -36,7 +36,7 @@
     
 } 
 .image-container {
-    background-image: url("../img/header.jpg");
+    background-image: url(../img/header.jpg);
     background-size: cover;
     position: relative; 
     height: 800px;
@@ -46,7 +46,7 @@
     background-size: cover;
     }
     .image-ability {
-    background-image: url("../img/IMG_8075.jpg"); 
+    background-image: url(../img/IMG_8075.jpg); 
     background-size: cover;
     position: relative; 
     height: 300px;
